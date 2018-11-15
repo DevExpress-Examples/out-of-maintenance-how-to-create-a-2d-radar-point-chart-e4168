@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/RadarPointSeries2D/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RadarPointSeries2D/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a 2D Radar Point chart
 
 
